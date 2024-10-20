@@ -1,0 +1,15 @@
+The HTML document begins with the <!DOCTYPE html> declaration, indicating an HTML5 document.
+The <head> section contains metadata, including character encoding (UTF-8), viewport settings for responsive design, and a title "Index Page."
+Inside the <body>, six headings (<h1> to <h6>) display text, starting from "wikipedia" to "Content."
+A paragraph (<p>) describes books, their formats, and the modern book industry.
+A button element is included with the label "Click LOGIN."
+A hyperlink (<a>) is provided to redirect the user to a Wikipedia page on books in a new tab.
+The paragraph contains bold text or emphasizes "Hello World" (though no <strong> or <b> tag is present for that).
+Line breaks (<br>) are incorrectly placed outside of HTML tags.
+No CSS styling or scripts are included.
+The document is structured semantically but has minor issues, like misplaced <br> tags.
+
+
+
+
+
